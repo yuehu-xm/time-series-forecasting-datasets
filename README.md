@@ -1,6 +1,6 @@
 # Time Series Forecasting Datasets
 
-[中文版本](README_CN.md) | [English Version](README_EN.md)
+[中文版本](README_CN.md) | [English Version](README.md)
 
 This repository contains multiple classic datasets for time series forecasting research. These datasets are widely used for evaluating time series forecasting models in academic research and industrial applications.
 
